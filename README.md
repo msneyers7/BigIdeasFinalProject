@@ -28,6 +28,6 @@ We chose the following datasets to make a combined metric to determine the best 
 
 Links to dataset:
 
-- ___________
+- [Traffic Data](https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh)
 - ___________
 - ___________
