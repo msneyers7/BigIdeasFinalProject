@@ -22,7 +22,7 @@ _________
 
 We chose the following datasets to make a combined metric to determine the best neighborhood in Pittsburgh:
 
-- ___________
+- The traffic data dataset tracks data from multiple traffic counters per neighborhood in Pittsburgh.
 - ___________
 - Median Age at Death dataset contains data of total deaths and total median age at death in each neighborhood in Pittsburgh for the timespan 2011-2015. The dataset also includes breakdowns by race.
 
