@@ -9,7 +9,7 @@ _________
 ## Team Members
 
 - Matthew Sneyers
-    - Email: ___________
+    - Email: [mjs566@pitt.edu](mailto:mjs566@pitt.edu)
     - Notebook: 
 - Steven Rocca
     - Email: ___________
