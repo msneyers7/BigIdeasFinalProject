@@ -9,7 +9,7 @@ _________
 ## Team Members
 
 - Matthew Sneyers
-    - Email: ___________
+    - Email: [mjs566@pitt.edu](mailto:mjs566@pitt.edu)
     - Notebook: 
 - Steven Rocca
     - Email: ___________
@@ -28,6 +28,6 @@ We chose the following datasets to make a combined metric to determine the best 
 
 Links to dataset:
 
-- ___________
+- [Traffic Data](https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh)
 - ___________
 - ___________
