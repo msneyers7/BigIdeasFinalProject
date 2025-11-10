@@ -23,7 +23,7 @@ The X-Men
 We chose the following datasets to make a combined metric to determine the best neighborhood in Pittsburgh:
 
 - The traffic data dataset tracks data from multiple traffic counters per neighborhood in Pittsburgh.
-- Monthly Criminal Data contains data of the amount of crimes reported in the previous full month(ex: it's November the crimes would be reported for October) and labels each with a neighborhood.
+- Monthly Criminal Data contains data of the amount of crimes reported from the beginning of the year, to the previous full month(ex: it's November the crimes would be reported for October) and labels each with a neighborhood.
 - Median Age at Death dataset contains data of total deaths and total median age at death in each neighborhood in Pittsburgh for the timespan 2011-2015. The dataset also includes breakdowns by race.
 
 Links to dataset:
