@@ -1,6 +1,6 @@
 # Big Ideas - Final Project
 
-We used data to determine which Pittsburgh neighborhood is the "best".
+We used data to determine which Pittsburgh neighborhood is the "best" based on various metrics.
 
 ## Team Name
 
