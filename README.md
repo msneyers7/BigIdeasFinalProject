@@ -26,6 +26,12 @@ We chose the following datasets to make a combined metric to determine the best 
 - Monthly Criminal Data contains data of the amount of crimes reported from the beginning of the year, to the previous full month(ex: at the time of Download it was November so the crimes would be reported for October) and labels each with a neighborhood.
 - Median Age at Death dataset contains data of total deaths and total median age at death in each neighborhood in Pittsburgh for the timespan 2011-2015. The dataset also includes breakdowns by race.
 
+## Repository Navigation
+
+- There exists to overarching folders; one titled "Final-Project-Data" and one titled "Individual-Notebook-Data"
+- Final-Project-Data contains one combined final notebook that took data from each group members individual analysis in their seperate notebooks into one singular jupyter notebook, as well as anything necessary to properly run that same notebook.
+- Individual-Notebook-Data contains 3 seperate folder with the various pitt ID's linking to each group member. Inside each of these folders is the exact work that each group member did for their jupyter notebooks, as well as, the csv files, and final csv interpretations that came from them
+
 Links to dataset:
 
 - [Traffic Data](https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh)
